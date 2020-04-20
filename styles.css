@@ -1,0 +1,80 @@
+body {
+  background-color: #afffff;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  height: auto;
+  margin: 0 auto;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #afffff;
+  padding-top: 150px;
+  position: relative;
+}
+
+.mountain {
+  background-color: #afffff;
+  height: 340px;
+  width: 800px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.middle-container {
+  background-color: white;
+  margin: 0px 30px;
+}
+
+.alok-image{
+  margin: 100px auto 60px auto;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.computer-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cillies-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {}
